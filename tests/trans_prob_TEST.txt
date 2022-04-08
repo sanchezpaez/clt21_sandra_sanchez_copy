@@ -1,0 +1,2 @@
+NULL	reanudación	0.10
+resumption	reanudación	0.9
